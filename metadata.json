@@ -1,0 +1,7 @@
+{
+  "name": "BarberStudio Pro",
+  "description": "Uma landing page premium para barbearia com sistema de agendamento integrado e um Consultor de Estilo IA movido pelo Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
